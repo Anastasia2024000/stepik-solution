@@ -1,0 +1,7 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=aa667644_002D293a_002D46e1_002Db744_002De6bf6439b868/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="WhenStringIsCorrect_ShouldReturnSlug" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::6C3FDF50-B67A-437F-BD6A-BD605D8FC4D7::net8.0::Stepik.UnitTests.Trainer9.StringsTrainer11Tests.WhenStringIsCorrect_ShouldReturnSlug&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::6C3FDF50-B67A-437F-BD6A-BD605D8FC4D7::net8.0::Stepik.UnitTests.Trainer9.StringsTrainer11Tests.WhenStringsIsCorrect_ShouldReturnSlug&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

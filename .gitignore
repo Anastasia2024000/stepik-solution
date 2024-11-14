@@ -1,0 +1,73 @@
+﻿/build/logs/*
+/.get/*
+/.idea/*
+/.fleet/*
+/packages/*
+**\.idea
+**\bin
+**\debug
+**\obj
+**\.vscode
+/.nuget/*
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+bld/
+box-aspnet-mvc-skeleton-app/[Bb]in/
+[Oo]bj/
+
+# Visual Studo 2015 cache/options directory
+.vs/
+
+# MSTest test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# NUNIT
+*.VisualState.xml
+TestResult.xml
+
+# Visual Studio profiler
+*.psess
+*.vsp
+*.vspx
+
+# ReSharper is a .NET coding add-in
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+# TeamCity is a build add-in
+_TeamCity*
+
+# DotCover is a Code Coverage Tool
+*.dotCover
+
+# NuGet Packages
+*.nupkg
+# The packages folder can be ignored because of Package Restore
+**/packages/*
+# except build/, which is used as an MSBuild target.
+!**/packages/build/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Thumbnails
+._*
+
+*.DS_Store
+.AppleDouble
+.LSOverride
+
+# Mega linter
+**/report/*
+mega-linter.report
