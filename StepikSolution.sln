@@ -3,10 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tutor1", "Tutor1\Tutor1.csproj", "{0EE7ACC7-E105-45EB-8CE2-1732A5E52B2E}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utilities", "Utilities\Utilities.csproj", "{6561FC40-309D-474D-A720-5E95AB5C50D0}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stepik", "Stepik\Stepik.csproj", "{691F97EF-AD09-4CDD-9A6C-3B359E855AEC}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stepik.UnitTests", "Stepik.UnitTests\Stepik.UnitTests.csproj", "{6C3FDF50-B67A-437F-BD6A-BD605D8FC4D7}"
@@ -20,14 +16,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{0EE7ACC7-E105-45EB-8CE2-1732A5E52B2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0EE7ACC7-E105-45EB-8CE2-1732A5E52B2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0EE7ACC7-E105-45EB-8CE2-1732A5E52B2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0EE7ACC7-E105-45EB-8CE2-1732A5E52B2E}.Release|Any CPU.Build.0 = Release|Any CPU
-		{6561FC40-309D-474D-A720-5E95AB5C50D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6561FC40-309D-474D-A720-5E95AB5C50D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6561FC40-309D-474D-A720-5E95AB5C50D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6561FC40-309D-474D-A720-5E95AB5C50D0}.Release|Any CPU.Build.0 = Release|Any CPU
 		{691F97EF-AD09-4CDD-9A6C-3B359E855AEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{691F97EF-AD09-4CDD-9A6C-3B359E855AEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{691F97EF-AD09-4CDD-9A6C-3B359E855AEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
