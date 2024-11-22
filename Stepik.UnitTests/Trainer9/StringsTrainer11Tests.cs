@@ -1,5 +1,4 @@
 using System.Reflection.Metadata;
-using FluentAssertions;
 using Stepik.Trainer9;
 
 namespace Stepik.UnitTests.Trainer9;
@@ -11,11 +10,11 @@ public class StringsTrainer11Tests
     [Fact]
     public void WhenStringIsCorrect_ShouldReturnSlug()
     {
-        // act
+        // arrange
         const string actual = "The Hellfire Club";
         const string expected = "the-hellfire-club";
         
-        // arrange
+        // act
         var result = _sut.Trainer11(actual);
 
         // assert
@@ -28,8 +27,7 @@ public class StringsTrainer11Tests
     [InlineData("The Hellfire Club", "the-hellfire-club")]
     public void WhenStringsIsCorrect_ShouldReturnSlug(string actual, string expected)
     {
-        
-        // arrange
+        // act
         var result = _sut.Trainer11(actual);
 
         // assert
