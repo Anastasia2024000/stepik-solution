@@ -7,5 +7,6 @@
     &lt;TestId&gt;xUnit::6C3FDF50-B67A-437F-BD6A-BD605D8FC4D7::net8.0::Stepik.UnitTests.Trainer9.StringsTrainer12Tests.WhenSearchIsNotExistsInMessage_ShouldReturnFalse&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;xUnit::6C3FDF50-B67A-437F-BD6A-BD605D8FC4D7::net8.0::Stepik.UnitTests.Trainer9.StringsTrainer12Tests&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;xUnit::6C3FDF50-B67A-437F-BD6A-BD605D8FC4D7::net8.0::Stepik.UnitTests.Trainer9.StringsTrainer13Tests.WhenSymolsIsExistsInString_ShouldReturnExpectedString&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::6C3FDF50-B67A-437F-BD6A-BD605D8FC4D7::net8.0::Stepik.UnitTests.Trainer9.StringsTrainer14Tests.WhenMessageAndReplacingSubstringIsValid_ShouldReturnReplaceString&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

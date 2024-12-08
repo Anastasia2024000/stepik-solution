@@ -1,6 +1,4 @@
-﻿using System.Security.Authentication;
-
-namespace Stepik.Trainer9;
+﻿namespace Stepik.Trainer9._1;
 
 public class StringsTrainer13
 {

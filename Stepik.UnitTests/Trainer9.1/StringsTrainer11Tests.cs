@@ -1,7 +1,6 @@
-using System.Reflection.Metadata;
-using Stepik.Trainer9;
+using Stepik.Trainer9._1;
 
-namespace Stepik.UnitTests.Trainer9;
+namespace Stepik.UnitTests.Trainer9._1;
 
 public class StringsTrainer11Tests
 {

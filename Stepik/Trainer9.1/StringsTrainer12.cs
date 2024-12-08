@@ -1,4 +1,4 @@
-﻿namespace Stepik.Trainer9;
+﻿namespace Stepik.Trainer9._1;
 
 public class StringsTrainer12
 {
